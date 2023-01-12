@@ -1,9 +1,9 @@
 body{
-    margin: 0;
+    margin: 0 auto;
+    text-align: center;
+    list-style-position: inside;
     background: linear-gradient(to bottom, #bdc3c7, #2c3e50);
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
     height: 100%;
-    list-style-position: inside;
 }
